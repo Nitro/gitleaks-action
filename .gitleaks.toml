@@ -104,4 +104,4 @@ title = "gitleaks config"
 	files = ['''^\.?gitleaks.toml$''',
 	'''(.*?)(jpg|gif|doc|pdf|bin)$''',
 	'''(go.mod|go.sum)$''',
-	'''.*/test/.*''']
+	'''.*\/test\/.*''']
